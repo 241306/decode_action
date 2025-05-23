@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 """
-项目名: 赚榜
+项目名: 赚榜1111
 注册地址: https://app.zhuanbang.net/invite/24620
 如果上面链接打不开，请运行下脚本就可以获取最新的注册地址 
 脚本功能:
